@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ROHITchin995
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Advance Frontend Techniques
-- 💞️ I’m looking to collaborate on Frontend Development (Reactjs)
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me rohitsure.9915@gmail.com
 
 <!---
