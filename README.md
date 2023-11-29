@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ROHITchin995
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development, Python, Data Analytics.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Web Development
+- 💞️ I’m looking to collaborate on Web Development, Data Analytics
 - 📫 How to reach me rohitsure.9915@gmail.com
 
 <!---
